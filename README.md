@@ -13,6 +13,5 @@ If you feel there are issues with my code, it's definitely not your fault. Feel 
 - Email: jiachengliu.inbox@gmail.com
 
 <br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JiaCheng2004&show_icons=true" alt="JiaCheng2004" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JiaCheng2004&show_icons=true&locale=en&layout=compact" alt="JiaCheng2004" /></p>
+[![JiaCheng2004 GitHub stats](https://github-readme-stats.vercel.app/api?username=JiaCheng2004&theme=transparent)](https://github.com/JiaCheng2004/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiaCheng2004&theme=transparent&layout=compact&hide=shaderlab,c%23)](https://github.com/JiaCheng2004/github-readme-stats)
