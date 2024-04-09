@@ -9,8 +9,9 @@ I'm currently a Computer Science B.S. major undergraduate in UC Santa Cruz, work
 
 If you feel there are issues with my code, it's definitely not your fault. Feel free to reach out to me. I'm more than happy to help.
 #### :mailbox: Contact me:
-- Discord: jc.2023
-- Email: jiachengliu.inbox@gmail.com
+Discord: jc.2023
+<br/>
+Email: jiachengliu.inbox@gmail.com
 
 <br/>
 
