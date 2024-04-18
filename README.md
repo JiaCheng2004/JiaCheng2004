@@ -7,7 +7,7 @@ I'm currently a Computer Science B.S. major undergraduate in UC Santa Cruz, work
   - [marong-website](https://github.com/JiaCheng2004/marong-website)
   - [ChessGame](https://github.com/JiaCheng2004/ChessGame)
 
-If you feel there are issues with my code, it's definitely not your fault. Feel free to reach out to me. I'm more than happy to help.
+If you feel there are issues with my code. Feel free to reach out to me. I'm more than happy to help and make changes to my code.
 #### :mailbox: Contact me:
 Discord: jc.2023
 <br/>
