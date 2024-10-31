@@ -1,6 +1,6 @@
 ### Hi there, I'm JiaCheng Liu 👋
 
-I'm currently a Computer Science B.S. major undergraduate in UC Santa Cruz, working on projects that focus on efficiency and best user experience. I'm currently open for hiring, and looking for internship opportunities in the United States.
+I'm currently a Computer Science B.S. major undergraduate in UC Santa Cruz, working on projects that focus on performance and user experience. I'm currently open for hiring, and looking for internship opportunities in the United States.
 
 #### 🔭 I’m currently working on:
   - [marong](https://github.com/JiaCheng2004/marong)
